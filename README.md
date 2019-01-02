@@ -1,3 +1,8 @@
+## Test data :
+user password: user1234
+cellphone verification code: 1234
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
